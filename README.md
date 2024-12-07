@@ -15,11 +15,21 @@ Your ultimate solution for managing YouTube content! This repository provides po
 
 Simplify your YouTube experience with this all-in-one tool!
 
+### Repository Description
+
+**YouTube Media Toolbox**  
+Your ultimate solution for managing YouTube content! This repository provides powerful features, including:  
+- A **YouTube video downloader** for saving single videos in the best quality.  
+- A **YouTube playlist downloader** to grab entire playlists effortlessly.  
+- An option to **extract all video links** from a playlist for easy access.  
+
+Simplify your YouTube experience with this all-in-one tool!
+
 ---
 
 ### README.md File  
 
-
+```markdown
 # YouTube Media Toolbox  
 Effortlessly manage and download your favorite YouTube content with this powerful, all-in-one repository.  
 
@@ -49,16 +59,16 @@ Follow these steps to use this tool:
 
 ### Usage  
 1. Clone the repository:  
-   
+   ```bash
    git clone <repository-url>
    cd YouTube-Media-Toolbox
-   
+   ```  
 
 2. Run the script for the desired functionality:  
    - **Download a single video**:  
-     bash
+     ```bash
      python single_video_downloader.py
-   
+     ```  
    - **Download a playlist**:  
      ```bash
      python playlist_downloader.py
